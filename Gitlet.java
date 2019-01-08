@@ -20,7 +20,7 @@ public class Gitlet {
             String msg1 = "A gitlet version control system ";
             String msg2 = "already exists in the current directory.";
             System.out.println(msg1 + msg2);
-        }    
+        }
     }
 
     public static void add(TreeOfCommits theCommits, String fileName, String[] args) {
